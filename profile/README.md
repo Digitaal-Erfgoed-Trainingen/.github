@@ -40,7 +40,7 @@ Wanneer het om ruimtelijke data gaat.. (deze module kan pas gevolgd worden na Mo
 ### Module 4 - Geodata, van tabulaire data naar een aan digitale kaart 
 De module Geodata, van tabulaire data naar een aan digitale kaart bouwt voor op Module 1. 
 
-[Repository]()
+[Repository](https://github.com/Digitaal-Erfgoed-Trainingen/Geodata)
 
 [Gepubliceerde module]()
 
