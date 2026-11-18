@@ -33,7 +33,7 @@ De module Datakwaliteitsrichtlijnen bouwt voort op module 1, maar geeft een inzi
 #### Module 3.2 - Datakwaliteit van Ruimtelijke data
 Wanneer het om ruimtelijke data gaat.. (deze module kan pas gevolgd worden na Module 4, of wanneer de deelnemer genoeg begrip heeft van ruimtelijke data)
 
-[Repository]()
+[Repository](https://github.com/Digitaal-Erfgoed-Trainingen/datakwaliteitrichtlijnen_RCE)
 
 [Gepubliceerde module]()
 
